@@ -1,1 +1,0 @@
-jQuery(document).ready(function(){jQuery("#myself-ui-tabs").tabs()});
